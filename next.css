@@ -1,0 +1,43 @@
+*{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, #fce4ee, #fbfdfc );
+}
+
+.cotent-img{
+    width: 100%;
+    height: 360px;
+}
+
+.content-main-desc{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.main-content{
+    text-align: center;
+}
+    
+.main-desc{
+    font-weight: bold;
+    color: coral;
+}
+
+.suc-btn {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.main-btn {
+    padding: 20px 40px;
+    cursor: pointer;
+    color: #1b0ceb;
+    font-weight: bold;
+    font-size: 24px;
+    background: #f1f522;
+}
+

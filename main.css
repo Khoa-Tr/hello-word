@@ -1,0 +1,18 @@
+*{
+    font-family: monospace;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: linear-gradient(45deg, #0597f8, #fa063b);
+}
+
+.main-desc {
+    color: #09f3d4;
+    text-align: center;
+    line-height: 752px;
+}
+
+.stranlate{
+    text-decoration: none;
+}
+
